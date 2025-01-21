@@ -1,1 +1,3 @@
-Simple JavaScript project where the user has to guess the number between 1 and 1000.
+# Guess The Number in JavaScript
+This is my first project made in JavaScript.
+
